@@ -7,8 +7,7 @@ import {
     updateProjectMutation,
     getProjectByIdQuery,
     getProjectsOfUserQuery,
-    getUserQuery,
-    projectsQuery, projectsQueryWithFilter, projectsQueryAll
+    getUserQuery, projectsQueryWithFilter, projectsQueryAll
 } from "@/graphql";
 import {ProjectForm} from "@/common.types";
 
